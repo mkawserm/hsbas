@@ -1,2 +1,1 @@
-# hsbas
-Hyper Ledger Sawtooth Address Scheme
+# Hyperledger Sawtooth Blockchain Address Scheme (hsbas)
